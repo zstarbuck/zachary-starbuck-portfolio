@@ -1,0 +1,7 @@
+#socials {
+    border: "solid 10px";
+    gap: "10px";
+    width: "200px";
+    position: absolute;
+    right: 0;
+}

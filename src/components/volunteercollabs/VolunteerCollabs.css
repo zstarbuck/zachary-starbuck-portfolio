@@ -1,0 +1,56 @@
+.volunteer-container {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.volunteer-title {
+  margin-bottom: 40px;
+}
+
+.card-container{
+  border-top: 2px dashed #3498db;
+  padding-top: 40px;
+}
+
+.volunteer-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 40px;
+  gap: 20px;
+}
+
+.volunteer-logo {
+  width: 135px;
+  height: 135px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.volunteer-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.volunteer-content h2 {
+  font-size: 1.25rem;
+  margin: 0 0 10px;
+}
+
+.volunteer-content p,
+.volunteer-content ul {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.volunteer-content p{
+  text-align: left;
+}
+
+.volunteer-content ul {
+  padding-left: 20px;
+}

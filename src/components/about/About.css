@@ -1,0 +1,51 @@
+
+.about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  background-color: white;
+  padding: 40px;
+  gap: 20px;
+}
+
+.about-left {
+  background-color: #f85aad; /* hot pink */
+  color: white;
+  padding: 40px 30px;
+  border-radius: 15px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.about-section {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.dot {
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 50%;
+  margin: 0 auto 10px;
+}
+
+.about-right {
+  background:no-repeat center/cover url("/chromaticpurpletrain.png");
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: fill;
+  border-radius: 15px;
+}
+
+/* .about-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  object-fit: cover;
+} */
