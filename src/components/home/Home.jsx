@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="home"id="home">
       <nav className="navbar">
-        <div className="logo"><img src="/nav-logo.png" alt="Nav-Logo"/></div>
+        <div className="logo"></div>
         <div className="flex-row">
           <ul className="nav-links">
           <li><a href="#about">About</a></li>
