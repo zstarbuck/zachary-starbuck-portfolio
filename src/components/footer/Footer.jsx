@@ -75,7 +75,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="logo-copyright" >
-          <div className="logo">
+          <div>
            <a href="#home"><img src="/nav-logo.png" alt="Nav-Logo"/></a>
           </div>
           <p>©Copyright 2025</p>

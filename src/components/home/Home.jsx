@@ -21,7 +21,7 @@ const Home = () => {
       <div className='main-content-wrapper'>
       <section className="hero">
         <div className="hero-text">
-          <p className="welcome">Welcome to Zachary Starbuck's Portfolio</p>
+          <p className="welcome">Welcome to <span className="my-name">Zachary Starbuck's</span> Portfolio</p>
           <h1>
             Intersecting Transit<br />
             Operations, Data,<br />

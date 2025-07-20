@@ -9,6 +9,16 @@
   margin-bottom: 40px;
 }
 
+.semi-bold {
+  font-weight: bold;
+  line-height: 2;
+}
+
+.italic {
+  font-style: italic;
+  line-height: 2;
+}
+
 .card-container {
   border-top: 2px dashed #3498db;
   padding-top: 40px;
@@ -39,9 +49,12 @@
 .project-text h2 {
   margin: 0 0 10px 0;
   font-size: 1.2rem;
+  gap: 10px;
 }
 
+
 .project-text p {
+  gap: 10px;
   margin: 0;
   font-size: 0.95rem;
   line-height: 1.4;
