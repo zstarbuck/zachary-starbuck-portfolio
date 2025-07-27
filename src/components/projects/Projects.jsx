@@ -2,78 +2,78 @@ import './Projects.css';
 
 const projects = [
   {
-    title: "Asset Management Overhaul",
+    title: "Asset Management Overhaul Proposal",
     id: "Asset",
     type: {
-      title: "Project Type: ",
-      text: "Planning and Engineering"
+      title: "Project type: ",
+      text: "planning and engineering"
     },
     skills:{
-      title:"Skills involved:",
-      text:"Planning, Envision Framework, Powerpoint Design"
+      title:"Skills involved: ",
+      text:"planning, Envision framework, PowerPoint design"
     },
     description:
-      "In 2022, I worked with city engineers and MARTA staff to overhaul In 2024, I worked with engineers and professionals to help revise and communicate MARTA’s 10-year Asset Management Plan, applying my expertise in the Envision Sustainability Framework. asset management system, improving reporting and tracking of infrastructure needs.",
+      "In 2024, I worked with MARTA's engineers professionals to create a revision of their 10-year Asset Management Plan, applying my certification in the Envision sustainability framework to better address our infrastructure.",
     image: "/assetmgmt.png",
   },
   {
     title: "Revamping of Internship Program",
     id: "Intern",
     type: {
-      title: "Project Type: ",
+      title: "Project type: ",
       text: "Operations and Hiring"
     },
     skills:{
       title:"Skills involved: ",
-      text:"Stakeholder Outreach, Cross-Departmental Collaboration, Leadership, Powerpoint Design, Executive Presentations"
+      text:"stakeholder outreach, cross-departmental collaboration, leadership, PowerPoint design, executive presentations"
     },
     description:
-      "I led an internal review to modernize MARTA’In 2023, I worked with Authority personnel and HR to develop a plan to restart MARTA’s Internship program.  I served as project manager for this team and was responsible for engaging the perspective of critical stakeholders.s internship program and better align it with workforce development goals.",
+      "I served as project manager for a team who conducted an internal review to revamp MARTA’s Internship program. We were responsible for engaging the perspective of critical stakeholders and aligning with our workforce development goals.",
     image: "/internship.png",
   },
   {
-    title: "GIS MARTA Bus Network Maps",
+    title: "MARTA Bus Network GIS Maps",
     id: "GIS",
     type: {
-      title: "Project Type: ",
+      title: "Project type: ",
       text: "GIS and surveys"
     },
     skills:{
       title:"Skills involved: ",
-      text:"GIS, Planning, Envision Stakeholder Outreach, Cross-Departmental Collaboration, Leadership, Powerpoint Design, Executive Presentations"
+      text:"GIS, planning, cross-departmental collaboration, leadership, PowerPoint design"
     },
     description:
-      "During my time volunteering with MARTA Army, I utilized the 2020 Bus Census Data to develop GIS maps of the bus network that provided a lot of context regarding the bus system. This presentation included a variety of GIS maps that served the following purposes: analyzing the impact that COVID had on ridership levels, determining cleanliness levels of bus stops, as well as identifying wayfinding present at stops.",
+      "While volunteering with MARTA Army, I utilized 2020 Census Data to develop GIS maps of the bus network. This research culminated in maps that served the following purposes: analyzing the impact that COVID had on ridership levels, determining cleanliness levels of bus stops, as well as identifying wayfinding present at stops.",
     image: "/gismaps.png",
   },
   {
     title: "Grad Thesis on TNCs and MARTA",
     id: "Thesis",
     type: {
-      title: "Project Type: ",
-      text: "Planning Thesis"
+      title: "Project type: ",
+      text: "planning thesis"
     },
     skills:{
       title:"Skills involved: ",
-      text:"Survey Analysis, Literature Review, Map Design, Data Analysis"
+      text:"survey Analyses, literature reviews, map designs, data analysis"
     },
     description:
-      "*My graduate thesis explored how TNCs impact MARTA ridership and My graduate thesis for the Georgia Tech MCRP program focuses on identifying the impact that ride-share services have on MARTA. This project included the following: literature review/met-analysis of other studies that discussed impact of ride-shares on public transit; R-Studio regression of MARTA station characteristics on ride-share usage; Excel tables of data from the Atlanta Regional Commission that contain information of the MARTA trips and stations captured for the organization’s  2019 survey; agencies can respond to evolving travel behavior and equity concerns.",
+      "My graduate thesis for the Georgia Tech MCRP program focuses on identifying the impact that ride-share services have on MARTA. This project included the following: literature review/meta-analysis of other studies that discussed impact of ride-shares on public transit; R-Studio regression of MARTA station characteristics on ride-share usage; and Excel tables of data from the Atlanta Regional Commission's 2019 Survey that contained information of the MARTA trips and stations. This project showed how MARTA and other transportation agencies can respond to evolving travel behavior and equity concerns.",
     image: "/gradthesistncs.png",
   },
   {
     title: "Tokyo Subway Design Studios",
     id: "Tokyo",
     type: {
-      title: "Project Type: ",
+      title: "Project type: ",
       text: "Design Studio"
     },
     skills:{
       title:"Skills involved: ",
-      text:"Technical Writing, Literature Review"
+      text:"technical writing, literature Review"
     },
     description:
-      "I participated in international design studios I participated in subway design studios focused on the Shinagawa and Sumida wards in Tokyo, where I contributed to station area planning and transit-oriented development strategies. My work emphasized integrating urban design with community needs and enhancing accessibility around key transit hubs.xploring station area planning, accessibility, and multimodal design in Tokyo’s dense subway network.",
+      "I participated in subway design studios that focused on the Shinagawa and Sumida wards in Tokyo, Japan. The project was a major collaborative effort between engineers, architects, and city planners overseen by Georgia Tech faculty. I contributed to station area planning and transit-oriented development strategies, integrating urban design with community needs. Our focus was to enhance accessibility around key transit hubs by exploring station area planning, accessibility, and multimodal design in Tokyo’s dense subway network.",
     image: "/tokyosubway.png",
   },
   {
@@ -81,14 +81,14 @@ const projects = [
     id: "CSCtrails",
     type: {
       title: "Project Type: ",
-      text: "Site Development",
+      text: "site development",
     },
     skills:{
       title:"Skills involved: ",
-      text: "Powerpoint Design, Cost Analysis, Research"
+      text: "PowerPoint design, cost analysis, research"
     },
     description:
-      "I contributed to the Active Transit Trails I developed the Active Transit Trails for Cavalier Manor presentation to propose a network of walking, cycling, and jogging trails aimed at improving health outcomes, reducing car dependency, and enhancing connectivity in an underserved, majority-Black neighborhood. My work involved mapping trail routes using GIS tools, assessing local infrastructure needs, identifying funding mechanisms such as CDAs and TIFs, and integrating broader urban design strategies like community gardens and green infrastructure improvements.",
+       "For my internship with the Center for Sustainable Communities (CSC), I developed active transit trail proposals for Cavalier Manor to identify a network of walking, cycling, and jogging trails aimed at improving health outcomes, reducing car dependency, and enhancing connectivity in an underserved, majority-Black neighborhood. My work involved mapping trail routes, using Google Earth, assessing local infrastructure needs, identifying funding opportunities, and integrating broader urban design strategies such as community gardens and green infrastructure improvements.",
     image: "/activetransit.png",
   },
 ];

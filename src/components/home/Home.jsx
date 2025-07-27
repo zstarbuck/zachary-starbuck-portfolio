@@ -28,8 +28,8 @@ const Home = () => {
             and Advocacy
           </h1>
           <p className="description">
-            Zachary Starbuck is a transportation professional and advocate based in Stone Mountain, GA with
-            experience in public transit planning, data analysis, policy advocacy, and community outreach.
+            I am a transportation professional and advocate with experience 
+            in public transit planning, data analysis, policy advocacy, and community outreach.
           </p>
         </div>
       </section>

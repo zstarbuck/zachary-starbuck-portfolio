@@ -9,7 +9,7 @@ const About = () => {
           <div className="dot" />
           <h2>My Expertise</h2>
           <p>
-            As a transportation professional and urbanist advocate, I specialize in managing administrative work,
+            As a transportation professional and urbanist, I specialize in managing administrative work,
             data analysis, and stakeholder engagement.
           </p>
         </div>
@@ -18,7 +18,7 @@ const About = () => {
           <div className="dot" />
           <h2>My Approach</h2>
           <p>
-            I believe in a collaborative, cross-functional approach to transportation efforts that seeks to
+            I believe in a collaborative, cross-functional approach to transportation efforts that seek to
             “meet people where they are.”
           </p>
         </div>
@@ -27,7 +27,7 @@ const About = () => {
           <div className="dot" />
           <h2>My Impact</h2>
           <p>
-            I have assisted MARTA and advocacy orgs such as the Congress for New Urbanism with developing projects
+            I am assiting MARTA and various advocacy groups with developing projects
             and programs.
           </p>
         </div>
